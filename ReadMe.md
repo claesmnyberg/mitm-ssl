@@ -13,13 +13,6 @@
   this tool might cause.
 
 
---[ Credits
-
-  The decode routines used (HTTP, LDAP, FTP, IMAP, IRC, POP3 and SMTP) 
-  are taken from dsniff-2.3 (and in some cases slightly modified), 
-  credits to Dug Song <dugsong@monkey.org> who wrote dsniff.
-
-
 --[ What is this?
 
   This is a tool for performing Man In The Middle attacks against SSL services.
